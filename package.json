@@ -6,5 +6,8 @@
   "dependencies": {
     "axios": "0.21.4",
     "bluebird": "3.7.2"
+  },
+  "scripts": {
+    "start": "node index.js"
   }
 }
